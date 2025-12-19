@@ -1,0 +1,9 @@
+{
+    "name": "Component Workflow with AWS Authentication and Tofu Deployment",
+    "description": "Can be used as easy quickstart for components using Tofu to deploy infrastructure to AWS.",
+    "iconName": "tofu-workflow",
+    "categories": [
+        "Tofu",
+        "Terraform"
+    ]
+}

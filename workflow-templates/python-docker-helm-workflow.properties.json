@@ -1,0 +1,10 @@
+{
+    "name": "Component Workflow with Python, Docker, and Helm",
+    "description": "Can be used as easy quickstart for components using Python, Docker, and Helm.",
+    "iconName": "python-docker-helm-workflow",
+    "categories": [
+        "Python",
+        "Docker",
+        "Helm"
+    ]
+}
